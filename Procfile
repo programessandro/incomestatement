@@ -1,2 +1,2 @@
-web: gunicorn incomestatement:app
+web: gunicorn application:app
 
