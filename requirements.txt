@@ -3,5 +3,6 @@ gunicorn==20.1.0
 pandas==1.3.4
 sec-api==1.0.18
 sec-edgar-downloader==5.0.2
-sec-downloader==0.0.4
+sec-downloader==0.11.1
+
 
